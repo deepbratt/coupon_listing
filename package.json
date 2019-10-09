@@ -1,0 +1,11 @@
+{
+  "name": "promotion_coupon_listing",
+  "version": "1.0.0",
+  "description": "promotions coupon listing website in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shuvradeb Mondal",
+  "license": "ISC"
+}
